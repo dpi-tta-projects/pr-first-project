@@ -6,7 +6,7 @@ Add your own project summary. Clone this repository (or open in codespace), crea
 
 | Owner | App Name | Summary | Who is it for? | GitHub Repository Link | URL |
 | --- | --- | --- | --- | --- | --- |
-| Jack Black | PickFinder | App to find the perfect pick for your guitar | Musicians | | [pickfinder.com](https://tenaciousd.com/) |
+| Ian Heraty | CV Boost | The perfect tool for job seekers who want to stand out from the competition and land their dream job! | Job Seekers | | [cv-boost.com](https://cv-boost.com/) |
 
 ## 2023-1.1 Hash Rockets
 
