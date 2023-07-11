@@ -2,7 +2,7 @@
 This repository is an index of project summaries, repositories, and URLs.
 
 ## How to Contribute
-Add your own project summary. Clone this repository (or open in codespace), create a branch, add your link in bio, commit, push branch, create a pull request into main branch. Pull requests must have at least 2 approvals before being merged. Do not commit directly to `main`!
+Add your own project summary. Clone this repository (or open in codespace), create a branch, add your first "final" project, commit, push branch, create a pull request into main branch. Pull requests must have at least 2 approvals before being merged. Do not commit directly to `main`!
 
 ## Staff
 
@@ -20,3 +20,4 @@ Add your own project summary. Clone this repository (or open in codespace), crea
 
 | Owner | App Name | Summary | Who is it for? | GitHub Repository Link | URL |
 | --- | --- | --- | --- | --- | --- |
+| Dustin Doyle | Fan Art Generator | Fan Art Generator is a tool that uses AI to generate social media icons or any type of images based on pop culture! | Art enthusiast | [Github](https://github.com/dantexkilljoy-appdev/fanart) | [fanart.onrender.com](https://fanart.onrender.com/) |
