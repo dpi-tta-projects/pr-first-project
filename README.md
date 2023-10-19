@@ -21,3 +21,6 @@ Add your own project summary. Clone this repository (or open in codespace), crea
 | Owner | App Name | Summary | Who is it for? | GitHub Repository Link | URL |
 | --- | --- | --- | --- | --- | --- |
 | Dustin Doyle | Fan Art Generator | Fan Art Generator is a tool that uses AI to generate social media icons or any type of images based on pop culture! | Art enthusiast | [Github](https://github.com/dantexkilljoy-appdev/fanart) | [fanart.onrender.com](https://fanart.onrender.com/) |
+
+
+| Jun So | Fishing Project | A guide on how to fish and lure finder| [Github] (https://github.com/thatcantbeso/fishing-project)  | [https://github.com/DPI-WE/link-in-bio] (https://github.com/DPI-WE/link-in-bio) |
