@@ -29,3 +29,4 @@ Add your own project summary. Clone this repository (or open in codespace), crea
 | Sara Schoonover | Fetch | Look at dogs and find dog facts! | Dog lovers! | [Github](https://github.com/saraschoonover/Fetch) | [Fly.io](https://holy-snow-8442.fly.dev) | 
 | Samuel Lubliner | chi-beach-water-quality | View real time chicago beach water quality. There seems to be a recent bug that I need to look into | Beach goers | [Github](https://github.com/Samuel-Lubliner/sinatra-template-beach) | [Fly.io](https://chi-beach-water-quality.fly.dev) | 
 | Carlos Castaneda | MyFlix | Search for movies and add them to a watchlist | Movie lovers | [Github](https://github.com/CarlosCastanedaDev/movie-watchlist-ruby) | [MyFlix](https://movie-info-wlzi.onrender.com/)
+| Calvin Armstrong | Card Guess (WIP) | Inscrutable Card Guessing Game with AI | For bored druids | [Github](https://github.com/armstrca/cardguess) | [Fly.io](https://github.com/armstrca/cardguess) |
