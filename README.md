@@ -41,4 +41,4 @@ Add your own project summary. Clone this repository (or open in codespace), crea
 | Alejandro Lopez | Cocktail Helper | You can search for a cocktail to get the ingredients and the steps to make it. | [Github](https://github.com/alejlopez139/cocktail_helper) |  [Render] (https://cocktail-helper.onrender.com/)
 | Brenda Reyes | Sinatra- Kanye App | Random Kanye quote generator | For motivation and silliness | [Render](https://sinatra-kanyeapp.onrender.com/) |
 | Alina Sapronova | Recipe finder | You can find any recipe, just write the ingridient. | Best works for home cooker. | https://empty-shadow-1746.fly.dev/ |
-| Aldo Portillo | Titos and Vodka | A cocktail searcher by ingredient or name | Works best after a long day | [Titos and Vodka](https://titos-and-vodka.fly.dev/) | 
+| Aldo Portillo | Titos and Vodka | A cocktail searcher by ingredient or name | Works best after a long day | [Github Repo](https://github.com/DPI-Aldo-Portillo/cocktails-dpi) | [Titos and Vodka](https://titos-and-vodka.fly.dev/) |
