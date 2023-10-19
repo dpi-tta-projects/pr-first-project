@@ -27,3 +27,4 @@ Add your own project summary. Clone this repository (or open in codespace), crea
 | --- | --- | --- | --- | --- | --- |
 | Fidel Leal | Scrabble Word Check | Check the score for that Scrabble word! Make sure to check out the Discord bot | Scrabble players | [Github](https://github.com/fidel-techprep/scrabble) | [Fly.io](https://scrabble.fly.dev) |
 | Sara Schoonover | Fetch | Look at dogs and find dog facts! | Dog lovers! | [Github](https://github.com/saraschoonover/Fetch) | [Fly.io](https://holy-snow-8442.fly.dev) | 
+| Samuel Lubliner | chi-beach-water-quality | View real time chicago beach water quality. There seems to be a recent bug that I need to look into | Beach goers | [Github](https://github.com/Samuel-Lubliner/sinatra-template-beach) | [Fly.io](https://chi-beach-water-quality.fly.dev) | 
