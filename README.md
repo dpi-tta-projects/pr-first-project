@@ -22,8 +22,13 @@ Add your own project summary. Clone this repository (or open in codespace), crea
 | --- | --- | --- | --- | --- | --- |
 | Dustin Doyle | Fan Art Generator | Fan Art Generator is a tool that uses AI to generate social media icons or any type of images based on pop culture! | Art enthusiast | [Github](https://github.com/dantexkilljoy-appdev/fanart) | [fanart.onrender.com](https://fanart.onrender.com/) |
 
-## 2023-1.1 Ian's Heratics
+## 2023-9.1 Ian's Heratics
 | Owner | App Name | Summary | Who is it for? | GitHub Repository Link | URL |
 | --- | --- | --- | --- | --- | --- |
 | Fidel Leal | Scrabble Word Check | Check the score for that Scrabble word! Make sure to check out the Discord bot | Scrabble players | [Github](https://github.com/fidel-techprep/scrabble) | [Fly.io](https://scrabble.fly.dev) |
 |Jacob Hoffmann | Book Search API | Uses Open Library API To show information on a searched book | People Who Read | https://solitary-mountain-191.fly.dev/ |
+| Sara Schoonover | Fetch | Look at dogs and find dog facts! | Dog lovers! | [Github](https://github.com/saraschoonover/Fetch) | [Fly.io](https://holy-snow-8442.fly.dev) | 
+| Jared Bears | Fridge Check | Allows a user to find recipes based on ingredients on hand | Anyone who cooks | [Github](https://github.com/JaredBears/fridge-check) | [Deployment](https://fridge-check.onrender.com) |
+| Samuel Lubliner | chi-beach-water-quality | View real time chicago beach water quality. There seems to be a recent bug that I need to look into | Beach goers | [Github](https://github.com/Samuel-Lubliner/sinatra-template-beach) | [Fly.io](https://chi-beach-water-quality.fly.dev) | 
+| Carlos Castaneda | MyFlix | Search for movies and add them to a watchlist | Movie lovers | [Github](https://github.com/CarlosCastanedaDev/movie-watchlist-ruby) | [MyFlix](https://movie-info-wlzi.onrender.com/)
+
