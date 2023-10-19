@@ -37,3 +37,6 @@ Add your own project summary. Clone this repository (or open in codespace), crea
 | Alexandra Mompremier | Cat Facts! | Generates a random cat fact! | Cat ladies like myself | [Github](https://github.com/ajmompr/kitty-facts) | [Cat Facts!](https://cat-facts-generator.fly.dev/) |
 | Andrew Cook | Art_Parser | Searches Harvard Art Museums' collections | Anyone curious | [Art_Parser](https://art-parser.onrender.com/") |
 | Calvin Armstrong | Card Guess (WIP) | Inscrutable Card Guessing Game with AI | For bored druids | [Github](https://github.com/armstrca/cardguess) | [Fly.io](https://github.com/armstrca/cardguess) |
+| Brian Waddell | Word Search | Search for words and get a varitey of definitions | For people looking to grow thier vocab | [Github]https://github.com/Brian-Waddell/Mini_project| [Fly.io] https://billowing-cloud-5165.fly.dev/user_word/?users_words=water |
+
+
