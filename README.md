@@ -25,6 +25,7 @@ Add your own project summary. Clone this repository (or open in codespace), crea
 ## 2023-9.1 Ian's Heratics
 | Owner | App Name | Summary | Who is it for? | GitHub Repository Link | URL |
 | --- | --- | --- | --- | --- | --- |
+| Andre Garner| D&D Spellbook | Generate's a random D&D spell. | Dungeons and Dragons players. | [Github] https://github.com/ajgarner98/D-and-D-Spellbook | [Fly.io] https://green-glitter-1552.fly.dev
 | Fidel Leal | Scrabble Word Check | Check the score for that Scrabble word! Make sure to check out the Discord bot | Scrabble players | [Github](https://github.com/fidel-techprep/scrabble) | [Fly.io](https://scrabble.fly.dev) |
 | Jacob Hoffmann | Book Search API | Uses Open Library API To show information on a searched book | People Who Read | https://solitary-mountain-191.fly.dev/ |
 | Sara Schoonover | Fetch | Look at dogs and find dog facts! | Dog lovers! | [Github](https://github.com/saraschoonover/Fetch) | [Fly.io](https://holy-snow-8442.fly.dev) | 
