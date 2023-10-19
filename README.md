@@ -22,7 +22,6 @@ Add your own project summary. Clone this repository (or open in codespace), crea
 | --- | --- | --- | --- | --- | --- |
 | Dustin Doyle | Fan Art Generator | Fan Art Generator is a tool that uses AI to generate social media icons or any type of images based on pop culture! | Art enthusiast | [Github](https://github.com/dantexkilljoy-appdev/fanart) | [fanart.onrender.com](https://fanart.onrender.com/) |
 
-
 ## 2023-9.1 Ian's Heratics
 | Owner | App Name | Summary | Who is it for? | GitHub Repository Link | URL |
 | --- | --- | --- | --- | --- | --- |
