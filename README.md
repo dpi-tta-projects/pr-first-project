@@ -26,3 +26,4 @@ Add your own project summary. Clone this repository (or open in codespace), crea
 | Owner | App Name | Summary | Who is it for? | GitHub Repository Link | URL |
 | --- | --- | --- | --- | --- | --- |
 | Fidel Leal | Scrabble Word Check | Check the score for that Scrabble word! Make sure to check out the Discord bot | Scrabble players | [Github](https://github.com/fidel-techprep/scrabble) | [Fly.io](https://scrabble.fly.dev) |
+|Jacob Hoffmann | Book Search API | Uses Open Library API To show information on a searched book | People Who Read | https://solitary-mountain-191.fly.dev/ |
