@@ -40,4 +40,4 @@ Add your own project summary. Clone this repository (or open in codespace), crea
 | Brian Waddell | Word Search | Search for words and get a varitey of definitions | For people looking to grow thier vocab | [Github]https://github.com/Brian-Waddell/Mini_project| [Fly.io] https://billowing-cloud-5165.fly.dev/user_word/?users_words=water |
 | Alejandro Lopez | Cocktail Helper | You can search for a cocktail to get the ingredients and the steps to make it. | [Github](https://github.com/alejlopez139/cocktail_helper) |  [Render] (https://cocktail-helper.onrender.com/)
 | Brenda Reyes | Sinatra- Kanye App | Random Kanye quote generator | For motivation and silliness | [Render](https://sinatra-kanyeapp.onrender.com/) |
-| Alina Sapronova | Recipe finder | You can find any recipe, just write the ingridient. | Best works for home cooker. | https://empty-shadow-1746.fly.dev/ |
+| Alina Sapronova | Recipe finder | You can find any recipe, just write the ingridient. | Best works for home cooker. | [Github](https://github.com/AlinaSapronova/mini_project) | https://empty-shadow-1746.fly.dev/ |
