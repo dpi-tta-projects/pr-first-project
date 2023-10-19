@@ -26,6 +26,7 @@ Add your own project summary. Clone this repository (or open in codespace), crea
 ## 2023-9.1 Ian's Heratics
 | Owner | App Name | Summary | Who is it for? | GitHub Repository Link | URL |
 | --- | --- | --- | --- | --- | --- |
+| Andre Garner| D&D Spellbook | Generate's a random D&D spell. | Dungeons and Dragons players. | [Github] https://github.com/ajgarner98/D-and-D-Spellbook | [Fly.io] https://green-glitter-1552.fly.dev
 | Fidel Leal | Scrabble Word Check | Check the score for that Scrabble word! Make sure to check out the Discord bot | Scrabble players | [Github](https://github.com/fidel-techprep/scrabble) | [Fly.io](https://scrabble.fly.dev) |
 | Jacob Hoffmann | Book Search API | Uses Open Library API To show information on a searched book | People Who Read | https://solitary-mountain-191.fly.dev/ |
 | Sara Schoonover | Fetch | Look at dogs and find dog facts! | Dog lovers! | [Github](https://github.com/saraschoonover/Fetch) | [Fly.io](https://holy-snow-8442.fly.dev) | 
@@ -47,5 +48,6 @@ Add your own project summary. Clone this repository (or open in codespace), crea
 | Ethan Huang | Dog-Fox Tourney | Choose your favorite dog or fox of the two, or just generate pictures | Dog and fox enjoyers | [Github](https://github.com/EthanKH/sinatra-template) | [Render](https://sinatra-template.onrender.com/) |
 | Brenda Reyes | Sinatra- Kanye App | Random Kanye quote generator | For motivation and silliness | [Render](https://sinatra-kanyeapp.onrender.com/) |
 | Alina Sapronova | Recipe finder | You can find any recipe, just write the ingridient. | Best works for home cooker. | https://empty-shadow-1746.fly.dev/ |
-| Aldo Portillo | Titos and Vodka | A cocktail searcher by ingredient or name | Works best after a long day | [Titos and Vodka](https://titos-and-vodka.fly.dev/) | 
-| Carman Chiu | Song List | Search up an artist and see a limited list of their songs | E for Everyone | [Github](https://github.com/chiucarman/Song-List) |[Render](https://song-list-yfdb.onrender.com/?)
+| Aldo Portillo | Titos and Vodka | A cocktail searcher by ingredient or name | Works best after a long day | [Titos and Vodka](https://titos-and-vodka.fly.dev/) | | Alina Sapronova | Recipe finder | You can find any recipe, just write the ingridient. | Best works for home cooker. | [Github](https://github.com/AlinaSapronova/mini_project) | [Render](https://empty-shadow-1746.fly.dev/) |
+| Jason Ho | Night Sky | If you can't look up this thing can do it for you. | Interest in Astronomy. | [Github](https://github.com/JasonHo404) | [Render](https://stars-xewn.onrender.com/) |
+| Kat Jarboe | Local Bird Finder | A bird sighting log and random bird generator | [Render](https://mini-project-67al.onrender.com) |
