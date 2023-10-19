@@ -35,4 +35,4 @@ Add your own project summary. Clone this repository (or open in codespace), crea
 | Jorge Pioquinto | GamerTag Generator | Helps you generate a cool username for your favorite video game | Gamers | [Github](https://github.com/Jorge-Pioquinto/gamertag_generator) | [Fly.io](https://gamertag-generator.fly.dev/) |
 | Andrew Cook | Art_Parser | Searches Harvard Art Museums' collections | Anyone curious | [Art_Parser](https://art-parser.onrender.com/") |
 | Calvin Armstrong | Card Guess (WIP) | Inscrutable Card Guessing Game with AI | For bored druids | [Github](https://github.com/armstrca/cardguess) | [Fly.io](https://github.com/armstrca/cardguess) |
-| Alejandro Lopez | Cocktail Helper | You can search for a cocktail to get the ingredients and the steps to make it. | [Github](https://github.com/alejlopez139/cocktail_helper) |  [Render] (https://cocktail-helper.onrender.com/)
+| Alejandro Lopez | Cocktail Helper | You can search for a cocktail to get the ingredients and the steps to make it. | Anyone | [Github](https://github.com/alejlopez139/cocktail_helper) |  [Render](https://cocktail-helper.onrender.com/)
