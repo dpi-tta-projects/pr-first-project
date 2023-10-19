@@ -37,3 +37,4 @@ Add your own project summary. Clone this repository (or open in codespace), crea
 | Alexandra Mompremier | Cat Facts! | Generates a random cat fact! | Cat ladies like myself | [Github](https://github.com/ajmompr/kitty-facts) | [Cat Facts!](https://cat-facts-generator.fly.dev/) |
 | Andrew Cook | Art_Parser | Searches Harvard Art Museums' collections | Anyone curious | [Art_Parser](https://art-parser.onrender.com/") |
 | Calvin Armstrong | Card Guess (WIP) | Inscrutable Card Guessing Game with AI | For bored druids | [Github](https://github.com/armstrca/cardguess) | [Fly.io](https://github.com/armstrca/cardguess) |
+| Dmitrii Sumenko | Random cat pic generator | Generates random pics of cats | for everyone | [Github](https://github.com/flstudio4/random_cat_pic_generator) | [fly.io](https://random-cat-pic.fly.dev/ ) |
