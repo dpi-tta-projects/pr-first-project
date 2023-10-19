@@ -41,12 +41,13 @@ Add your own project summary. Clone this repository (or open in codespace), crea
 | David Hibble | Useless Fact Generator | A random useless fact generator! | For anyone who wants to know useless facts! | [Github](https://github.com/hibbleD/useless-facts-mini-project) | [Fly.io](https://mini-projectt.fly.dev/) |
 | Thierry Chau | What's for dinner? | Finding restaurants nearby | Hungry folks | [GitHub](https://github.com/thierrychau/sinatra-restaurants) | [Render](https://whatsfordinner-sx3l.onrender.com/) |
 | Alejandro Lopez | Cocktail Helper | You can search for a cocktail to get the ingredients and the steps to make it. | Anyone | [Github](https://github.com/alejlopez139/cocktail_helper) |  [Render](https://cocktail-helper.onrender.com/) |
-| Brenda Reyes | Sinatra- Kanye App | Random Kanye quote generator | For motivation and silliness | [Render](https://sinatra-kanyeapp.onrender.com/) |
 | Dmitrii Sumenko | Random cat pic generator | Generates random pics of cats | for everyone | [Github](https://github.com/flstudio4/random_cat_pic_generator) | [Fly.io](https://random-cat-pic.fly.dev/) |
 | Brian Waddell | Word Search | Search for words and get a varitey of definitions | For people looking to grow thier vocab | [Github](https://github.com/Brian-Waddell/Mini_project) | [Fly.io](https://billowing-cloud-5165.fly.dev/user_word/?users_words=water) |
 | Alejandro Lopez | Cocktail Helper | You can search for a cocktail to get the ingredients and the steps to make it. | [Github](https://github.com/alejlopez139/cocktail_helper) |  [Render](https://cocktail-helper.onrender.com/) |
 | Ethan Huang | Dog-Fox Tourney | Choose your favorite dog or fox of the two, or just generate pictures | Dog and fox enjoyers | [Github](https://github.com/EthanKH/sinatra-template) | [Render](https://sinatra-template.onrender.com/) |
 | Brenda Reyes | Sinatra- Kanye App | Random Kanye quote generator | For motivation and silliness | [Render](https://sinatra-kanyeapp.onrender.com/) |
+| Carman Chiu | Song List | Search up an artist and see a limited list of their songs | E for Everyone | [Github](https://github.com/chiucarman/Song-List) | [Render](https://song-list-yfdb.onrender.com/) |
+| Jason Ho | Night Sky | If you can't look up this thing can do it for you. | Interest in Astronomy. | [Github](https://github.com/JasonHo404) | [Render](https://stars-xewn.onrender.com/) |
 | Alina Sapronova | Recipe finder | You can find any recipe, just write the ingridient. | Best works for home cooker. | [Github](https://github.com/AlinaSapronova/mini_project) | [Fly.io](https://empty-shadow-1746.fly.dev/) |
 | Jason Ho | Night Sky | If you can't look up this thing can do it for you. | Interest in Astronomy. | [Github](https://github.com/JasonHo404) | [Render](https://stars-xewn.onrender.com/) |
 | Aldo Portillo | Titos and Vodka | A cocktail searcher by ingredient or name | Works best after a long day | [Titos and Vodka](https://titos-and-vodka.fly.dev/) | 
