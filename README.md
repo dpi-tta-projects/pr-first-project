@@ -35,5 +35,7 @@ Add your own project summary. Clone this repository (or open in codespace), crea
 | Jorge Pioquinto | GamerTag Generator | Helps you generate a cool username for your favorite video game | Gamers | [Github](https://github.com/Jorge-Pioquinto/gamertag_generator) | [Fly.io](https://gamertag-generator.fly.dev/) |
 | Andrew Cook | Art_Parser | Searches Harvard Art Museums' collections | Anyone curious | [Art_Parser](https://art-parser.onrender.com/") |
 | Calvin Armstrong | Card Guess (WIP) | Inscrutable Card Guessing Game with AI | For bored druids | [Github](https://github.com/armstrca/cardguess) | [Fly.io](https://github.com/armstrca/cardguess) |
+| Brian Waddell | Word Search | Search for words and get a varitey of definitions | For people looking to grow thier vocab | [Github]https://github.com/Brian-Waddell/Mini_project| [Fly.io] https://billowing-cloud-5165.fly.dev/user_word/?users_words=water |
 | Alejandro Lopez | Cocktail Helper | You can search for a cocktail to get the ingredients and the steps to make it. | [Github](https://github.com/alejlopez139/cocktail_helper) |  [Render] (https://cocktail-helper.onrender.com/)
 | Brenda Reyes | Sinatra- Kanye App | Random Kanye quote generator | For motivation and silliness | [Render](https://sinatra-kanyeapp.onrender.com/) |
+
