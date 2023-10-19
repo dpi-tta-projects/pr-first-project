@@ -21,3 +21,9 @@ Add your own project summary. Clone this repository (or open in codespace), crea
 | Owner | App Name | Summary | Who is it for? | GitHub Repository Link | URL |
 | --- | --- | --- | --- | --- | --- |
 | Dustin Doyle | Fan Art Generator | Fan Art Generator is a tool that uses AI to generate social media icons or any type of images based on pop culture! | Art enthusiast | [Github](https://github.com/dantexkilljoy-appdev/fanart) | [fanart.onrender.com](https://fanart.onrender.com/) |
+
+## 2023-9.1
+
+| Owner | App Name | Summary | Who is it for? | GitHub Repository Link | URL |
+| --- | --- | --- | --- | --- | --- |
+| Jared Bears | Fridge Check | Allows a user to find recipes based on ingredients on hand | Anyone who cooks | [Github](https://github.com/JaredBears/fridge-check) | [Deployment](https://fridge-check.onrender.com) |
