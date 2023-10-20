@@ -44,7 +44,7 @@ Add your own project summary. Clone this repository (or open in codespace), crea
 | Dmitrii Sumenko | Random cat pic generator | Generates random pics of cats | for everyone | [Github](https://github.com/flstudio4/random_cat_pic_generator) | [Fly.io](https://random-cat-pic.fly.dev/) |
 | Brian Waddell | Word Search | Search for words and get a varitey of definitions | For people looking to grow thier vocab | [Github](https://github.com/Brian-Waddell/Mini_project) | [Fly.io](https://billowing-cloud-5165.fly.dev/user_word/?users_words=water) |
 | Ethan Huang | Dog-Fox Tourney | Choose your favorite dog or fox of the two, or just generate pictures | Dog and fox enjoyers | [Github](https://github.com/EthanKH/sinatra-template) | [Render](https://sinatra-template.onrender.com/) |
-| Brenda Reyes | Sinatra- Kanye App | Random Kanye quote generator | For motivation and silliness | [Render](https://sinatra-kanyeapp.onrender.com/) |
+| Brenda Reyes | Sinatra- Kanye App | Random Kanye quote generator | For motivation and silliness | [Github]() | [Render](https://sinatra-kanyeapp.onrender.com/) |
 | Carman Chiu | Song List | Search up an artist and see a limited list of their songs | E for Everyone | [Github](https://github.com/chiucarman/Song-List) | [Render](https://song-list-yfdb.onrender.com/) |
 | Jason Ho | Night Sky | If you can't look up this thing can do it for you. | Interest in Astronomy. | [Github](https://github.com/JasonHo404) | [Render](https://stars-xewn.onrender.com/) |
 | Alina Sapronova | Recipe finder | You can find any recipe, just write the ingridient. | Best works for home cooker. | [Github](https://github.com/AlinaSapronova/mini_project) | [Fly.io](https://empty-shadow-1746.fly.dev/) |
