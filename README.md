@@ -51,4 +51,4 @@ Add your own project summary. Clone this repository (or open in codespace), crea
 | Alina Sapronova | Recipe finder | You can find any recipe, just write the ingridient. | Best works for home cooker. | [Github](https://github.com/AlinaSapronova/mini_project) | [Fly.io](https://empty-shadow-1746.fly.dev/) |
 | Jason Ho | Night Sky | If you can't look up this thing can do it for you. | Interest in Astronomy. | [Github](https://github.com/JasonHo404) | [Render](https://stars-xewn.onrender.com/) |
 | Aldo Portillo | Titos and Vodka | A cocktail searcher by ingredient or name | Works best after a long day | [Titos and Vodka](https://titos-and-vodka.fly.dev/) | 
-| Kat Jarboe | Local Bird Finder | A bird sighting log and random bird generator | [Render](https://mini-project-67al.onrender.com) |
+| Kat Jarboe | Local Bird Finder | A bird sighting log and random bird generator | [GitHub](https://github.com/melo616/bird-api-project) | [Render](https://mini-project-67al.onrender.com) |
