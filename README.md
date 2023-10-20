@@ -28,7 +28,7 @@ Add your own project summary. Clone this repository (or open in codespace), crea
 | --- | --- | --- | --- | --- | --- |
 | Andre Garner| D&D Spellbook | Generate's a random D&D spell. | Dungeons and Dragons players. | [Github](https://github.com/ajgarner98/D-and-D-Spellbook) | [Fly.io](https://green-glitter-1552.fly.dev) |
 | Fidel Leal | Scrabble Word Check | Check the score for that Scrabble word! Make sure to check out the Discord bot | Scrabble players | [Github](https://github.com/fidel-techprep/scrabble) | [Fly.io](https://scrabble.fly.dev) |
-| Jacob Hoffmann | Book Search API | Uses Open Library API To show information on a searched book | People Who Read | [Fly.io]https://solitary-mountain-191.fly.dev/ |
+| Jacob Hoffmann | Book Search API | Uses Open Library API To show information on a searched book | People Who Read | [Github]() | [Fly.io](https://solitary-mountain-191.fly.dev/) |
 | Sara Schoonover | Fetch | Look at dogs and find dog facts! | Dog lovers! | [Github](https://github.com/saraschoonover/Fetch) | [Fly.io](https://holy-snow-8442.fly.dev) | 
 | Jared Bears | Fridge Check | Allows a user to find recipes based on ingredients on hand | Anyone who cooks | [Github](https://github.com/JaredBears/fridge-check) | [Deployment](https://fridge-check.onrender.com) |
 | Samuel Lubliner | chi-beach-water-quality | View real time chicago beach water quality. There seems to be a recent bug that I need to look into | Beach goers | [Github](https://github.com/Samuel-Lubliner/sinatra-template-beach) | [Fly.io](https://chi-beach-water-quality.fly.dev) | 
