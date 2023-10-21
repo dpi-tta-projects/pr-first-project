@@ -48,6 +48,6 @@ Add your own project summary. Clone this repository (or open in codespace), crea
 | Carman Chiu | Song List | Search up an artist and see a limited list of their songs | E for Everyone | [Github](https://github.com/chiucarman/Song-List) | [Render](https://song-list-yfdb.onrender.com/) |
 | Jason Ho | Night Sky | If you can't look up this thing can do it for you. | Interest in Astronomy. | [Github](https://github.com/JasonHo404) | [Render](https://stars-xewn.onrender.com/) |
 | Alina Sapronova | Recipe finder | You can find any recipe, just write the ingridient. | Best works for home cooker. | [Github](https://github.com/AlinaSapronova/mini_project) | [Fly.io](https://empty-shadow-1746.fly.dev/) |
-| Aldo Portillo | Titos and Vodka | A cocktail searcher by ingredient or name | Works best after a long day | Github | [Titos and Vodka](https://titos-and-vodka.fly.dev/) | 
+| Aldo Portillo | Titos and Vodka | A cocktail searcher by ingredient or name | Works best after a long day | [Github](https://github.com/DPI-Aldo-Portillo/cocktails-dpi) | [Titos and Vodka](https://titos-and-vodka.fly.dev/) | 
 | Kat Jarboe | Local Bird Finder | A bird sighting log and random bird generator | For birders and bird enthusiasts | [GitHub](https://github.com/melo616/bird-api-project) | [Render](https://mini-project-67al.onrender.com) |
 | Akin Campbell | Portfolio | My background | Prospective employers | [Github](https://github.com/akincampbell/akincampbell.github.io) | [Link](https://akincampbell.github.io/) |
