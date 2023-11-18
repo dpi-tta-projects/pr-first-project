@@ -51,3 +51,4 @@ Add your own project summary. Clone this repository (or open in codespace), crea
 | Aldo Portillo | Titos and Vodka | A cocktail searcher by ingredient or name | Works best after a long day | [Github](https://github.com/DPI-Aldo-Portillo/cocktails-dpi) | [Titos and Vodka](https://titos-and-vodka.fly.dev/) | 
 | Kat Jarboe | Local Bird Finder | A bird sighting log and random bird generator | For birders and bird enthusiasts | [GitHub](https://github.com/melo616/bird-api-project) | [Render](https://mini-project-67al.onrender.com) |
 | Akin Campbell | Portfolio | My background | Prospective employers | [Github](https://github.com/akincampbell/akincampbell.github.io) | [Link](https://akincampbell.github.io/) |
+| RJ | QR Code | A QR code leads to a page | for humans | [Github](https://github.com/RJDPI/QR-code/tree/main) | [Link](https://qrcode-1dxl.onrender.com) |
