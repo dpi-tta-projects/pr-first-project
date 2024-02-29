@@ -69,7 +69,6 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Gustavo Gutierrez | Task Tamer | crud app that will have a pet| for keeping people accountable on tasks|[GitHub](https://github.com/evolshenanigans/task-tamer) | [Link](https://tasktamer.onrender.com) |
 | Amanda Mendez| Amanda's Inspiration of the Day site | Provides a new stoic quote on relaod and a daily pic of space | People who need inspiration | [Github](https://github.com/amandaag39/sinatra-mini-project)| [Render](https://inspiration-of-the-day.onrender.com/) |
 | Salvador Castaneda | Get Your Ipsum | Generate random ipsum | Developers | [GitHub](https://github.com/salcasta/loripsum-api-miniproject-techprep) | [Render](https://loripsum-api-miniproject-techprep.onrender.com) |
-| Winnie Wu | Latin Is For The Birds | Guess the bird from the Latin name | Bird Lovers | [Github](https://github.com/WCW789/latin-is-for-the-birds) | [Link](https://latin-is-for-the-birds.onrender.com/) |
 |Benjamin Guzman | Name Generator | Generates Names | For people who need names. | [GitHub](https://github.com/BenjaminGuzman-Ayala/Random-Name-Generator) |[Render](https://random-name-generator-m3vn.onrender.com/)
 | Annie Huynh | Nourish Balance Tracker | Calculate the total calories and macro nutrients in the ingredient list for your recipie | Best for people who are trying to keep track of their calorie intake. |[Github](https://github.com/ahuynh3a/NourishBalance_Tracker)| [Link](https://nourish-balance-tracker.onrender.com)|
 | Sera Oraha | Recipe Generator | Find recipes with ingredients you already have! | For people who have a limited amount of ingredients | [Github](https://github.com/sera-11/recipe-generator) | [Link](https://recipe-generator-h8mf.onrender.com/food_form) |
@@ -87,4 +86,4 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Dylan Menard | FurFlix | An app to see cute animal pictures| For people who like animal pictures | [Github](https://github.com/Dylanm22/FurFlix) | [Link](https://furflix-qeor.onrender.com/) |
 | Lamont Sampson | Omnicalc 4 | Omnicalc on steroids + 2 games and chat GPT | Geeks | [Github](https://github.com/lsampson1974/omnicalc4) | [Link](https://omnicalc4.onrender.com) |
 | Crytal Tliourane | EMOJI Spirit Guide | Generate a random emoji to give you guidance/advice | People who want some advice from an emoji | [Github](https://github.com/ctlio/EMOJI_SPIRIT_GUIDE/tree/main) | [Link](https://emoji-spirit-guide.onrender.com/) |
-
+| Jeeho Lee | PokeLucky | Pokemon catching simulator, like the Safari Zone | Pokemon fans who think they're luckier than others | [Github](https://github.com/jeeheezy/sinatra-pokelucky) | [Link](https://pokelucky.onrender.com/) |
