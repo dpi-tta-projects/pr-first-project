@@ -53,4 +53,5 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Akin Campbell | Portfolio | My background | Prospective employers | [Github](https://github.com/akincampbell/akincampbell.github.io) | [Link](https://akincampbell.github.io/) |
 
 ## 2024-2.1
+| Owner | App Name | Summary | Who is it for? | GitHub Repository Link | URL |
 | Winnie Wu | Latin Is For The Birds | Guess the bird from the Latin name | Bird Lovers | [Github](https://github.com/WCW789/latin-is-for-the-birds) | [Link](https://latin-is-for-the-birds.onrender.com/) |
