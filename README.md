@@ -61,6 +61,7 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | --- | --- | --- | --- | --- | --- |
 | Reid Aumann | Reid's Holiday Generator | Generates information about a random US holiday | People who want more information about random holidays | [Github](https://github.com/reidaumann/dpi-miniproject)| [Render](https://reid-holiday-generator.onrender.com) |
 | Jason Johnson| Calorie Counter | Counts Calories. | Omnivores. | [Github](https://github.com/JJohnson606/Calorie-counter) | [Fly.io](https://calorie-counter.fly.dev) |
+| Joanna Rodriguez| Song Reccomendation Generator | Recomends music. | Music lovers. | [Github](https://github.com/joannarodriguez134/spotify-playlist-generator) | [Link](https://song-reccomendation-generator-du0y.onrender.com/) |
 | Gustavo Gutierrez | Task Tamer | crud app that will have a pet| for keeping people accountable on tasks|[GitHub](https://github.com/evolshenanigans/task-tamer) | [Link](https://tasktamer.onrender.com) |
 | Salvador Castaneda | Get Your Ipsum | Generate random ipsum | Developers | https://github.com/salcasta/loripsum-api-miniproject-techprep | https://loripsum-api-miniproject-techprep.onrender.com |
 | Winnie Wu | Latin Is For The Birds | Guess the bird from the Latin name | Bird Lovers | [Github](https://github.com/WCW789/latin-is-for-the-birds) | [Link](https://latin-is-for-the-birds.onrender.com/) |
