@@ -59,6 +59,7 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 
  Owner | App Name | Summary | Who is it for? | GitHub Repository Link | URL |
 | --- | --- | --- | --- | --- | --- |
+| Reid Aumann | Reid's Holiday Generator | Generates information about a random US holiday | People who want more information about random holidays | [Github](https://github.com/reidaumann/dpi-miniproject)| [Render](https://reid-holiday-generator.onrender.com) |
 | Jason Johnson| Calorie Counter | Counts Calories. | Omnivores. | [Github](https://github.com/JJohnson606/Calorie-counter) | [Fly.io](https://calorie-counter.fly.dev) |
 | Reid Aumann | Reid's Holiday Generator | Generates information about a random US holiday | People who want more information about random holidays | https://github.com/reidaumann/dpi-miniproject| https://reid-holiday-generator.onrender.com |
 | Amanda Mendez| Amanda's Inspiration of the Day site | Provides a new stoic quote on relaod and a daily pic of space | People who need inspiration | [Github](https://github.com/amandaag39/sinatra-mini-project)| [Render](https://inspiration-of-the-day.onrender.com/) |
