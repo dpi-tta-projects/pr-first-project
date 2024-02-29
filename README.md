@@ -58,3 +58,4 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Reid Aumann | Reid's Holiday Generator | Generates information about a random US holiday | People who want more information about random holidays | https://github.com/reidaumann/dpi-miniproject| https://reid-holiday-generator.onrender.com |
 | Salvador Castaneda | Get Your Ipsum | Generate random ipsum | Developers | https://github.com/salcasta/loripsum-api-miniproject-techprep | https://loripsum-api-miniproject-techprep.onrender.com |
 | Gustavo Gutierrez | Task Tamer | crud app that will have a pet| for keeping people accountable on tasks| https://github.com/evolshenanigans/task-tamer | https://tasktamer.onrender.com|
+| Sera Oraha | Recipe Generator | Find recipes with ingredients you already have! | For people who have a limited amount of ingredients | [Github](https://github.com/sera-11/recipe-generator) | [Link](https://recipe-generator-h8mf.onrender.com/food_form) |
