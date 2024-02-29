@@ -2,7 +2,7 @@
 This repository is an index of project summaries, repositories, and URLs.
 
 ## How to Contribute
-Add your own project summary. Clone this repository (or open in codespace), create a branch, add your first "final" project, commit, push branch, create a pull request into main branch. Pull requests must have at least 2 approvals before being merged. Do not commit directly to `main`!
+Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this repository (or open in codespace), create a branch with format `<issue-number>-<your-initials>-<brief-description>`, add your project summary, commit, push branch, create a pull request into main branch, and connect the pull request to your issue. Pull requests must have at least 2 approvals before being merged. Do not commit directly to main!
 
 ## Staff
 
