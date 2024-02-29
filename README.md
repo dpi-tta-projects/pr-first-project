@@ -85,3 +85,5 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Vincent Pham | Quotes Generator | Generates five random quotes | People who need motivation | [GitHub](https://github.com/phamdvincent/quotes-generator) | [Render](https://quotes-generator-3q68.onrender.com/) |
 | Jose Montes De Oca Morfin | SuperHero Clash! | An app where you can put your favorite heros to battle and see who comes out on top! | For comic book fans or superhero fans who want to see who is the stronger hero or villian | [Github](https://github.com/JoseMDO/mini-project) | [Link](https://super-hero-clash.onrender.com/) |
 | Lamont Sampson | Omnicalc 4 | Omnicalc on steroids + 2 games and chat GPT | Geeks | [Github](https://github.com/lsampson1974/omnicalc4) | [Link](https://omnicalc4.onrender.com) |
+| Crytal Tliourane | EMOJI Spirit Guide | Generate a random emoji to give you guidance/advice | People who want some advice from an emoji | [Github](https://github.com/ctlio/EMOJI_SPIRIT_GUIDE/tree/main) | [Link](https://emoji-spirit-guide.onrender.com/) |
+
