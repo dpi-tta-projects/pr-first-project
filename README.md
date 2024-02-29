@@ -59,11 +59,9 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 
  Owner | App Name | Summary | Who is it for? | GitHub Repository Link | URL |
 | --- | --- | --- | --- | --- | --- |
-| Reid Aumann | Reid's Holiday Generator | Generates information about a random US holiday | People who want more information about random holidays | https://github.com/reidaumann/dpi-miniproject| https://reid-holiday-generator.onrender.com |
 | Kiowa Scott | NASA and You | Generates the photo NASA took on your birthday | Narcissists | [GitHub](https://github.com/kscott675/nasa-you)| [Render](https://nasa-and-you.onrender.com/birthday) |
 | Reid Aumann | Reid's Holiday Generator | Generates information about a random US holiday | People who want more information about random holidays | [Github](https://github.com/reidaumann/dpi-miniproject)| [Render](https://reid-holiday-generator.onrender.com) |
 | Jason Johnson| Calorie Counter | Counts Calories. | Omnivores. | [Github](https://github.com/JJohnson606/Calorie-counter) | [Fly.io](https://calorie-counter.fly.dev) |
-
 | Reid Aumann | Reid's Holiday Generator | Generates information about a random US holiday | People who want more information about random holidays | https://github.com/reidaumann/dpi-miniproject| https://reid-holiday-generator.onrender.com |
 | Gustavo Gutierrez | Task Tamer | crud app that will have a pet| for keeping people accountable on tasks|[Github](https://github.com/evolshenanigans/task-tamer) | [Link](https://tasktamer.onrender.com) |
 | Amanda Mendez| Amanda's Inspiration of the Day site | Provides a new stoic quote on relaod and a daily pic of space | People who need inspiration | [Github](https://github.com/amandaag39/sinatra-mini-project)| [Render](https://inspiration-of-the-day.onrender.com/) |
