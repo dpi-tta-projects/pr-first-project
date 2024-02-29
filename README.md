@@ -61,5 +61,5 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | --- | --- | --- | --- | --- | --- |
 | Jason Johnson| Calorie Counter | Counts Calories. | Omnivores. | [Github](https://github.com/JJohnson606/Calorie-counter) | [Fly.io](https://calorie-counter.fly.dev) |
 | Reid Aumann | Reid's Holiday Generator | Generates information about a random US holiday | People who want more information about random holidays | https://github.com/reidaumann/dpi-miniproject| https://reid-holiday-generator.onrender.com |
-| Gustavo Gutierrez | Task Tamer | crud app that will have a pet| for keeping people accountable on tasks|[GitHub](https://github.com/evolshenanigans/task-tamer) | [Link](https://tasktamer.onrender.com) |
+| Gustavo Gutierrez | Task Tamer | crud app that will have a pet| for keeping people accountable on tasks|[Github](https://github.com/evolshenanigans/task-tamer) | [Link](https://tasktamer.onrender.com) |
 | Salvador Castaneda | Get Your Ipsum | Generate random ipsum | Developers | https://github.com/salcasta/loripsum-api-miniproject-techprep | https://loripsum-api-miniproject-techprep.onrender.com |
