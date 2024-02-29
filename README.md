@@ -81,5 +81,4 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Lateef Idris| Dish Discovery | Generates random recipe | Anyone looking to try new foods | [Github](https://github.com/lateefidris/Dish_Discovery) | [Render](https://dish-discovery-u3uh.onrender.com) |
 | Rohan Mendiratta | Stock Tracker | App to search information about specific stocks | People who invest in stock market | [Github](https://github.com/ROMENDI/stock-tracker) | [Link](https://stock-tracker-hpby.onrender.com/) |
 | Jose Pantoja | Stoic App | App to receive motivaitonal or stoic quotes | People who Need Motivation | [Github](https://github.com/jpanto21/stoic_app) | [Link](https://github.com/jpanto21/stoic_app) |
-
 ##
