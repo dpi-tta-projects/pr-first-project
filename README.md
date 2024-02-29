@@ -80,5 +80,6 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Maurius Hill | Holiday Finder | Generates random holidays celebrated in the U.S | People exploring new holidays | [Github](https://github.com/mauriushill/holiday-finder) | [Link](https://sinatra-final.onrender.com) |
 | Lateef Idris| Dish Discovery | Generates random recipe | Anyone looking to try new foods | [Github](https://github.com/lateefidris/Dish_Discovery) | [Render](https://dish-discovery-u3uh.onrender.com) |
 | Rohan Mendiratta | Stock Tracker | App to search information about specific stocks | People who invest in stock market | [Github](https://github.com/ROMENDI/stock-tracker) | [Link](https://stock-tracker-hpby.onrender.com/) |
-| Jose Pantoja | Stoic App | App to receive motivaitonal or stoic quotes | People who Need Motivation | [Github](https://github.com/jpanto21/stoic_app) | [Link](https://github.com/jpanto21/stoic_app) |
-##
+| Jose Pantoja | Stoic App | App to receive motivaitonal or stoic quotes | People who Need Motivation | [Github](https://github.com/jpanto21/stoic_app) | [Link](https://stoic-app.onrender.com/) |
+| Alana Edwards | Homeless Resource Index | The Homeless Resource Index provides a directory of resources based on your geographic location. | The app is for those experiencing homelessness and housing insecurity | [Github](https://github.com/prettyalana/homeless-resource-index) | [Link](https://homelessresourceindex.onrender.com) |
+
