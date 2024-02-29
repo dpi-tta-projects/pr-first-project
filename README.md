@@ -59,6 +59,10 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 
  Owner | App Name | Summary | Who is it for? | GitHub Repository Link | URL |
 | --- | --- | --- | --- | --- | --- |
+
+| Reid Aumann | Reid's Holiday Generator | Generates information about a random US holiday | People who want more information about random holidays | https://github.com/reidaumann/dpi-miniproject| https://reid-holiday-generator.onrender.com |
+| Gustavo Gutierrez | Task Tamer | crud app that will have a pet| for keeping people accountable on tasks| https://github.com/evolshenanigans/task-tamer | https://tasktamer.onrender.com|
+| John Paul Fababaer | DPI Dictionary | Walmart Dictionary | For individuals looking to upgrade their 1st grade-level vocabulary | [Github](https://github.com/jpfababaer/dpi-dictionary) | [Render](https://dpi-dictionary.onrender.com/) |
 | Kiowa Scott | NASA and You | Generates the photo NASA took on your birthday | Narcissists | [GitHub](https://github.com/kscott675/nasa-you)| [Render](https://nasa-and-you.onrender.com/birthday) |
 | Reid Aumann | Reid's Holiday Generator | Generates information about a random US holiday | People who want more information about random holidays | [Github](https://github.com/reidaumann/dpi-miniproject)| [Render](https://reid-holiday-generator.onrender.com) |
 | Jason Johnson| Calorie Counter | Counts Calories. | Omnivores. | [Github](https://github.com/JJohnson606/Calorie-counter) | [Fly.io](https://calorie-counter.fly.dev) |
@@ -79,3 +83,4 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Rohan Mendiratta | Stock Tracker | App to search information about specific stocks | People who invest in stock market | [Github](https://github.com/ROMENDI/stock-tracker) | [Link](https://stock-tracker-hpby.onrender.com/) |
 | Maurius Hill | Holiday Finder | Generates random holidays celebrated in the U.S | People exploring new holidays | [Github](https://github.com/mauriushill/holiday-finder) | [Link](https://sinatra-final.onrender.com) |
 | Lateef Idris| Dish Discovery | Generates random recipe | Anyone looking to try new foods | [Github](https://github.com/lateefidris/Dish_Discovery) | [Render](https://dish-discovery-u3uh.onrender.com) |
+
