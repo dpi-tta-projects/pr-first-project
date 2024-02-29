@@ -66,6 +66,5 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 
 | Gustavo Gutierrez | Task Tamer | crud app that will have a pet| for keeping people accountable on tasks| https://github.com/evolshenanigans/task-tamer | https://tasktamer.onrender.com|
 | Andrew Pham  | Morning Drill | cAn interactive Ruby Sinatra application that fetches a joke, answers your question using ChatGPT, and provides weather advice based on your location | for ones who simply just wants to quickly check today's weather and a quick joke to bright up the day | https://github.com/andrewp8/morning_drill | https://morning-drill.onrender.com/|
-
 | Winnie Wu | Latin Is For The Birds | Guess the bird from the Latin name | Bird Lovers | [Github](https://github.com/WCW789/latin-is-for-the-birds) | [Link](https://latin-is-for-the-birds.onrender.com/) |
 | Lateef Idris| Dish Discovery | Generates random recipe | Anyone looking to try new foods | [Github](https://github.com/lateefidris/Dish_Discovery) | [Render](https://dish-discovery-u3uh.onrender.com) |
