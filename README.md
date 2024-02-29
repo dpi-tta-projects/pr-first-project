@@ -88,3 +88,5 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Winnie Wu | Latin Is For The Birds | Guess the bird from the Latin name | Bird Lovers | [Github](https://github.com/WCW789/latin-is-for-the-birds) | [Link](https://latin-is-for-the-birds.onrender.com/) |
 | Rohan Mendiratta | Stock Tracker | App to search information about specific stocks | People who invest in stock market | [Github](https://github.com/ROMENDI/stock-tracker) | [Link](https://stock-tracker-hpby.onrender.com/) |
 | Jose Pantoja | Stoic App | App to receive motivaitonal or stoic quotes | People who Need Motivation | [Github](https://github.com/jpanto21/stoic_app) | [Link](https://stoic-app.onrender.com/) |
+| Alana Edwards | Homeless Resource Index | The Homeless Resource Index provides a directory of resources based on your geographic location. | The app is for those experiencing homelessness and housing insecurity | [Github](https://github.com/prettyalana/homeless-resource-index) | [Link](https://homelessresourceindex.onrender.com) |
+
