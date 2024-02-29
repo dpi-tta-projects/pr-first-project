@@ -56,3 +56,4 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Owner | App Name | Summary | Who is it for? | GitHub Repository Link | URL |
 | --- | --- | --- | --- | --- | --- |
 | Reid Aumann | Reid's Holiday Generator | Generates information about a random US holiday | People who want more information about random holidays | https://github.com/reidaumann/dpi-miniproject| https://reid-holiday-generator.onrender.com |
+| Kiowa Scott | NASA and You | Generates the photo NASA took on your birthday | Narcissists | https://github.com/kscott675/nasa-you| https://nasa-and-you.onrender.com/birthday |
