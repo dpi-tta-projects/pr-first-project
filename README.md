@@ -53,4 +53,6 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Akin Campbell | Portfolio | My background | Prospective employers | [Github](https://github.com/akincampbell/akincampbell.github.io) | [Link](https://akincampbell.github.io/) |
 
 ## 2024-2.1 
+| Owner | App Name | Summary | Who is it for? | GitHub Repository Link | URL |
+| --- | --- | --- | --- | --- | --- |
 | Reid Aumann | Reid's Holiday Generator | Generates information about a random US holiday | People who want more information about random holidays | https://github.com/reidaumann/dpi-miniproject| https://reid-holiday-generator.onrender.com |
