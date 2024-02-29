@@ -51,3 +51,6 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Aldo Portillo | Titos and Vodka | A cocktail searcher by ingredient or name | Works best after a long day | [Github](https://github.com/DPI-Aldo-Portillo/cocktails-dpi) | [Titos and Vodka](https://titos-and-vodka.fly.dev/) | 
 | Kat Jarboe | Local Bird Finder | A bird sighting log and random bird generator | For birders and bird enthusiasts | [GitHub](https://github.com/melo616/bird-api-project) | [Render](https://mini-project-67al.onrender.com) |
 | Akin Campbell | Portfolio | My background | Prospective employers | [Github](https://github.com/akincampbell/akincampbell.github.io) | [Link](https://akincampbell.github.io/) |
+
+## 2024-2.1 
+| Reid Aumann | Reid's Holiday Generator | Generates information about a random US holiday | People who want more information about random holidays | https://github.com/reidaumann/dpi-miniproject| https://reid-holiday-generator.onrender.com |
