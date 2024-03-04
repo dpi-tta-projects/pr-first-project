@@ -60,6 +60,7 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 ## 2024-2.1 Indecisive Flapjacks
  Owner | App Name | Summary | Who is it for? | GitHub Repository Link | URL |
 | --- | --- | --- | --- | --- | --- |
+| Cisco Vlahakis | cvFruits | A simple website for exploring fruits and their nutritional information! | People who like fruits! | [Github](https://github.com/ciscovlahakis/cvFruits)| [Render](https://cvfruits.onrender.com/) |
 | Reid Aumann | Reid's Holiday Generator | Generates information about a random US holiday | People who want more information about random holidays | [Github](https://github.com/reidaumann/dpi-miniproject)| [Render](https://reid-holiday-generator.onrender.com) |
 | John Paul Fababaer | DPI Dictionary | Walmart Dictionary | For individuals looking to upgrade their 1st grade-level vocabulary | [Github](https://github.com/jpfababaer/dpi-dictionary) | [Render](https://dpi-dictionary.onrender.com/) |
 | Kiowa Scott | NASA and You | Generates the photo NASA took on your birthday | Narcissists | [GitHub](https://github.com/kscott675/nasa-you)| [Render](https://nasa-and-you.onrender.com/birthday) |
