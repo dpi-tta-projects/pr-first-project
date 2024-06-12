@@ -91,3 +91,6 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Mary Webby | TrendingTimes | A local hub for finding what's trending in people, movies, and tv shows | People who aren't 'in the know' | [Github](https://github.com/marywebby/movies-mini-project) | [Link](https://movies-mini-project.onrender.com/) |
 
 ## 2024-5.1 Gary's GabaGhoul Goblins
+ Owner | App Name | Summary | Who is it for? | GitHub Repository Link | URL |
+| --- | --- | --- | --- | --- | --- |
+| Chinemelum Iloegbunam | WeatherWorld | A simple weather app! | People who want to know the weather... | [Github](https://github.com/Cindellai/WeatherWorld)| [Render](https://cvfruits.onrender.com/) |https://weatherworld-wvlu.onrender.com/ |
