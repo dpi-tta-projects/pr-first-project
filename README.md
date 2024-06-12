@@ -94,3 +94,4 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
  Owner      | App Name                  | Summary | Who is it for? | GitHub Repository Link | URL |
 |------------|---------------------------| --- | --- | --- | --- |
 | Young Song | colorQR                   | Web app to generate QR codes based on URLs | People who needs QR code  | [Github](https://github.com/YoungSong99/Qr-Code-Website)| [Render](https://qr-code-generator-94io.onrender.com/) |
+| Rebecca Herrera | Random Dog Image | You get a random dog image to put a smile on your face. | People who need a laugh. | [Github](https://github.com/reherr/random-dog-image)| [Render](https://random-dog-image.onrender.com/) |
