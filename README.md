@@ -91,3 +91,4 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Mary Webby | TrendingTimes | A local hub for finding what's trending in people, movies, and tv shows | People who aren't 'in the know' | [Github](https://github.com/marywebby/movies-mini-project) | [Link](https://movies-mini-project.onrender.com/) |
 
 ## 2024-5.1 Gary's GabaGhoul Goblins
+| Jeremy Baxter | What Should I Play? | It tells indecisive people what to play | Indecisive people who aren't sure what to play | [Github](https://github.com/jt-is-coding/what-should-i-play-) | [Link](https://what-should-i-play.onrender.com/)
