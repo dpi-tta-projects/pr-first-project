@@ -102,4 +102,4 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Young Song | colorQR                   | Web app to generate QR codes based on URLs | People who needs QR code  | [Github](https://github.com/YoungSong99/Qr-Code-Website)| [Render](https://qr-code-generator-94io.onrender.com/) |
 | Natalie Demyanenko | CTA train schedule | Displays next arrivals and departures for a selected CTA "L" train station | Chicago commuters | [Github](https://github.com/SaraDawner2000/CTA_train_schedule) | [Link](https://cta-train-schedule.onrender.com) |
 | Aizat Ibraimova | Book Randomizer | Randomly suggests you book to read | [Github](https://github.com/SaraDawner2000/CTA_train_schedule) | [Link](https://github.com/aizatibraimova/BookRandomizer) |
-
+| Aleksei Borovikov | Watchlist | Adds, marks, and stores films to watch in cookies | Film fans | [Github](https://github.com/aborov/sinatra-watchlist) | [Link](https://watchlist-w1d3.onrender.com) |
