@@ -101,4 +101,5 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Arpan Patel | Stock Tracker | Outputs Stock Market Data | [Github](https://github.com/APatel-AI/StockStash) | [Link](https://stockstash.onrender.com/) |
 | Brandon Varner | Random vacation generator | Enter a date, get a random country, weather forecast, and information about what makes that country special | [Github](https://github.com/brvarner/random-vacation) | [Link](https://random-vacation.onrender.com/)
 | Aleksei Borovikov | Watchlist | Adds, marks, and stores films to watch in cookies | Film fans | [Github](https://github.com/aborov/sinatra-watchlist) | [Link](https://watchlist-w1d3.onrender.com) |
+| Fadi Baker | AstroPic | Astro pic is a dynamic ruby web app that provides the user with a different picture each day of our fascinating universe along with a brief explanation writtern by a professional Astronomer.| For People who are interested in the universe and want to know more about it. | [Github](https://github.com/FadiBaker92/astronomy_pic_of_the_day/tree/main) | [Render](https://astronomy-pic-of-the-day.onrender.com/astronomy_pic).|
 
