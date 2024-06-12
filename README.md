@@ -91,3 +91,4 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Mary Webby | TrendingTimes | A local hub for finding what's trending in people, movies, and tv shows | People who aren't 'in the know' | [Github](https://github.com/marywebby/movies-mini-project) | [Link](https://movies-mini-project.onrender.com/) |
 
 ## 2024-5.1 Gary's GabaGhoul Goblins
+| Herman Contreras | Trivia Pie | A trivia game where you must collect all the slices! | Trivia heads | [Github](https://github.com/hcontr4/trivia-pie) | [Link to Trivia Pie](https://trivia-pie.onrender.com/game) |
