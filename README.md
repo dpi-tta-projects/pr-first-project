@@ -103,3 +103,5 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Natalie Demyanenko | CTA train schedule | Displays next arrivals and departures for a selected CTA "L" train station | Chicago commuters | [Github](https://github.com/SaraDawner2000/CTA_train_schedule) | [Link](https://cta-train-schedule.onrender.com) |
 | Aizat Ibraimova | Book Randomizer | Randomly suggests you book to read | [Github](https://github.com/SaraDawner2000/CTA_train_schedule) | [Link](https://github.com/aizatibraimova/BookRandomizer) |
 
+| Arpan Patel | Stock Tracker | Outputs Stock Market Data | [Github](https://github.com/APatel-AI/StockStash) | [Link](https://stockstash.onrender.com/) |
+
