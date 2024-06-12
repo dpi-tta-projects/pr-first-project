@@ -91,6 +91,7 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Mary Webby | TrendingTimes | A local hub for finding what's trending in people, movies, and tv shows | People who aren't 'in the know' | [Github](https://github.com/marywebby/movies-mini-project) | [Link](https://movies-mini-project.onrender.com/) |
 
 ## 2024-5.1 Gary's GabaGhoul Goblins
+
  Owner      | App Name                  | Summary | Who is it for? | GitHub Repository Link | URL |
 |------------|---------------------------| --- | --- | --- | --- |
 
@@ -100,4 +101,5 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Aizat Ibraimova | Book Randomizer | Randomly suggests you book to read | [Github](https://github.com/SaraDawner2000/CTA_train_schedule) | [Link](https://github.com/aizatibraimova/BookRandomizer) |
 | Arpan Patel | Stock Tracker | Outputs Stock Market Data | [Github](https://github.com/APatel-AI/StockStash) | [Link](https://stockstash.onrender.com/) |
 | Brandon Varner | Random vacation generator | Enter a date, get a random country, weather forecast, and information about what makes that country special | [Github](https://github.com/brvarner/random-vacation) | [Link](https://random-vacation.onrender.com/)
+| Aleksei Borovikov | Watchlist | Adds, marks, and stores films to watch in cookies | Film fans | [Github](https://github.com/aborov/sinatra-watchlist) | [Link](https://watchlist-w1d3.onrender.com) |
 
