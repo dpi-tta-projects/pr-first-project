@@ -91,3 +91,6 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Mary Webby | TrendingTimes | A local hub for finding what's trending in people, movies, and tv shows | People who aren't 'in the know' | [Github](https://github.com/marywebby/movies-mini-project) | [Link](https://movies-mini-project.onrender.com/) |
 
 ## 2024-5.1 Gary's GabaGhoul Goblins
+ Owner      | App Name                  | Summary | Who is it for? | GitHub Repository Link | URL |
+|------------|---------------------------| --- | --- | --- | --- |
+| Young Song | colorQR                   | Web app to generate QR codes based on URLs | People who needs QR code  | [Github](https://github.com/YoungSong99/Qr-Code-Website)| [Render](https://qr-code-generator-94io.onrender.com/) |
