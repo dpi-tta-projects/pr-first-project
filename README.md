@@ -100,8 +100,6 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Aizat Ibraimova | Book Randomizer | Randomly suggests you book to read | Book lovers | [Github](https://github.com/aizatibraimova/BookRandomizer) | [Link](https://github.com/aizatibraimova/BookRandomizer) |
 | Arpan Patel | Stock Tracker | Outputs Stock Market Data | [Github](https://github.com/APatel-AI/StockStash) | [Link](https://stockstash.onrender.com/) |
 | Brandon Varner | Random vacation generator | Enter a date, get a random country, weather forecast, and information about what makes that country special | People who want to get away | [Github](https://github.com/brvarner/random-vacation) | [Link](https://random-vacation.onrender.com/) |
-| Aleksei Borovikov | Watchlist | Adds, marks, and stores films to watch in cookies | Film fans | [Github](https://github.com/aborov/sinatra-watchlist) | [Link](https://watchlist-w1d3.onrender.com) |
-<<<<<<< 169-bv-adding-who-section-to-my-listing
-=======
+| Aleksei Borovikov | Movie Watchlist | Adds, marks, and stores films to watch in cookies | Film fans | [Github](https://github.com/aborov/sinatra-watchlist) | [Link](https://watchlist-w1d3.onrender.com) |
 | Fadi Baker | AstroPic | Astro pic is a dynamic ruby web app that provides the user with a different picture each day of our fascinating universe along with a brief explanation writtern by a professional Astronomer.| For People who are interested in the universe and want to know more about it. | [Github](https://github.com/FadiBaker92/astronomy_pic_of_the_day/tree/main) | [Render](https://astronomy-pic-of-the-day.onrender.com/astronomy_pic).|
 | Jan Niewielski | Similar Songs | Recommends similar songs based on user's song selection | Music enjoyers | [Github](https://github.com/jniewiel/similarsongs) | [Link](https://similarsongs.onrender.com) |
