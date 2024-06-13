@@ -111,3 +111,4 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Maya Sheriff| ZenInspiration | Shows random zen quotes to help you get motivated and inspired| [Github](https://github.com/MayaS1111/ZenInspiration)| [Render](https://zeninspiration.onrender.com/)|
 | Jeremy Baxter | What Should I Play? | It tells indecisive people what to play | Indecisive people who aren't sure what to play | [Github](https://github.com/jt-is-coding/what-should-i-play-) | [Link](https://what-should-i-play.onrender.com/)
 | Herman Contreras | Trivia Pie | A trivia game where you must collect all the slices! | Trivia heads | [Github](https://github.com/hcontr4/trivia-pie) | [Link](https://trivia-pie.onrender.com/game) |
+| Dylan Sarikas | War App |  Play the game War against the computer | Board game fans | [Github](https://github.com/dylansarikas/war-app) | [Link](https://war-app.onrender.com/) |
