@@ -24,6 +24,7 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 
 
 ## 2023-9.1 Ian's Heratics
+
 | Owner | App Name | Summary | Who is it for? | GitHub Repository Link | URL |
 | --- | --- | --- | --- | --- | --- |
 | Andre Garner| D&D Spellbook | Generate's a random D&D spell. | Dungeons and Dragons players. | [Github](https://github.com/ajgarner98/D-and-D-Spellbook) | [Fly.io](https://green-glitter-1552.fly.dev) |
@@ -91,7 +92,6 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Mary Webby | TrendingTimes | A local hub for finding what's trending in people, movies, and tv shows | People who aren't 'in the know' | [Github](https://github.com/marywebby/movies-mini-project) | [Link](https://movies-mini-project.onrender.com/) |
 
 ## 2024-5.1 Gary's GabaGhoul Goblins
-
  Owner      | App Name                  | Summary | Who is it for? | GitHub Repository Link | URL |
 |------------|---------------------------| --- | --- | --- | --- |
 | Young Song | colorQR | Web app to generate QR codes based on URLs | People who needs QR code  | [Github](https://github.com/YoungSong99/Qr-Code-Website)| [Render](https://qr-code-generator-94io.onrender.com/) |
@@ -109,3 +109,4 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Kevin Calva | Random Recipe Generator | It utilizes the Spoonacular API to fetch random recipes. When the application runs, it generates a random recipe along with its title, ingredients, instructions, and an image. Users can click on the "Generate New Recipe" button to generate a new random recipe.| People who want a random recipe to cook | [Github](https://github.com/kcalva/random-recipe-generator) | [Link](https://random-recipe-generator.fly.dev/) |
 | Reza Husain | Event Finder | Finds upcoming events using the SeatGeek API and lists them out in a table format. | People who need a convenient way to look up upcoming events. | [Github](https://github.com/rezahusain/final-web-project) | [Render](https://final-web-project-zpvx.onrender.com) |
 | Maya Sheriff| ZenInspiration | Shows random zen quotes to help you get motivated and inspired| [Github](https://github.com/MayaS1111/ZenInspiration)| [Render](https://zeninspiration.onrender.com/)|
+| Jeremy Baxter | What Should I Play? | It tells indecisive people what to play | Indecisive people who aren't sure what to play | [Github](https://github.com/jt-is-coding/what-should-i-play-) | [Link](https://what-should-i-play.onrender.com/)
