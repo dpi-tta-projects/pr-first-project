@@ -24,6 +24,7 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 
 
 ## 2023-9.1 Ian's Heratics
+
 | Owner | App Name | Summary | Who is it for? | GitHub Repository Link | URL |
 | --- | --- | --- | --- | --- | --- |
 | Andre Garner| D&D Spellbook | Generate's a random D&D spell. | Dungeons and Dragons players. | [Github](https://github.com/ajgarner98/D-and-D-Spellbook) | [Fly.io](https://green-glitter-1552.fly.dev) |
