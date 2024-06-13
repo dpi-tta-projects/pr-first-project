@@ -103,5 +103,4 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Aleksei Borovikov | Watchlist | Adds, marks, and stores films to watch in cookies | Film fans | [Github](https://github.com/aborov/sinatra-watchlist) | [Link](https://watchlist-w1d3.onrender.com) |
 | Fadi Baker | AstroPic | Astro pic is a dynamic ruby web app that provides the user with a different picture each day of our fascinating universe along with a brief explanation writtern by a professional Astronomer.| For People who are interested in the universe and want to know more about it. | [Github](https://github.com/FadiBaker92/astronomy_pic_of_the_day/tree/main) | [Render](https://astronomy-pic-of-the-day.onrender.com/astronomy_pic).|
 
-
 | Herman Contreras | Trivia Pie | A trivia game where you must collect all the slices! | Trivia heads | [Github](https://github.com/hcontr4/trivia-pie) | [Link to Trivia Pie](https://trivia-pie.onrender.com/game) |
