@@ -118,5 +118,11 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Kurt Mauritz | GPTCharacterizer | See how ChatGPT reponds as different characters | Bored people looking for quick fun | [Github](https://github.com/MauritzKurt/GPTCharacterizer) | [Link](https://gptcharacterizer.onrender.com/) |
 | Alonzo Rice | Nasa Pic Of The Day | View pictures of outterspace taken by NASA | For people who are interested in astronomy | [Github](https://github.com/ricealonzo/nasa_pic_of_day.git) | [Link](https://nasapicofday-nk8b.onrender.com) | 
 
-
+## 2024-9.1 
+ Owner      | App Name                  | Summary | Who is it for? | GitHub Repository Link | URL |
+|------------|---------------------------| --- | --- | --- | --- |
+| Ashanti Hatchett | Random Recipe Generator | Generate a random recipe in a chosen category | For people who don't know what to cook | [Github](https://github.com/hatcheta1/random-recipe-generator) | [Link](https://random-recipe-generator-b0x4.onrender.com/)
+| Vivian Davila | The Weather Image Generator | Provides current weather and generates an image to visually represent the conditions of the weather. | For people looking for weather updates. | [Github](https://github.com/viviancreates/image_weather_app) | [Link](https://image-weather-app.onrender.com) | 
+| Brian Kim | The Museum of Metropolitan Art | Art Gallery for the metropolitan museum of art collection. In this project you will be able to browse through the different departments, and browse images. | For people who like art! | [Github](https://github.com/bibimbop123/themetropolitanmuseumofartcollection) | [Link](https://themetropolitanmuseumofartcollection.onrender.com) |
+| Daniela Garcia | Weather Tunes | Get recommended Spotify playlists that match current weather conditions. | Music and weather lovers. | [Github](https://github.com/dgarcia13-99/weather_tunes) | [Link](https://weather-tunes.onrender.com/)
 | Jessica JnoBaptiste | Dictionary/Spanish Translator | Define words or translate words from English to Spanish or Spanish to English | For people who want to define words or translate something to Spanish|[Github](https://github.com/jessjno/sinatra-Dictionary.git) | [Link](https://dictionary-translator-0gn1.onrender.com) |
