@@ -119,4 +119,4 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Alonzo Rice | Nasa Pic Of The Day | View pictures of outterspace taken by NASA | For people who are interested in astronomy | [Github](https://github.com/ricealonzo/nasa_pic_of_day.git) | [Link](https://nasapicofday-nk8b.onrender.com) | 
 
 
-| Jessica JnoBaptiste | Dictionary/Spanish Translator | Define words or translate words from English to Spanish or Spanish to English | [Github](https://github.com/jessjno/sinatra-Dictionary.git) | [Link](https://dictionary-translator-0gn1.onrender.com) |
+| Jessica JnoBaptiste | Dictionary/Spanish Translator | Define words or translate words from English to Spanish or Spanish to English | For people who want to define words or translate something to Spanish|[Github](https://github.com/jessjno/sinatra-Dictionary.git) | [Link](https://dictionary-translator-0gn1.onrender.com) |
