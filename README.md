@@ -121,5 +121,6 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 ## 2024-9.1 
  Owner      | App Name                  | Summary | Who is it for? | GitHub Repository Link | URL |
 |------------|---------------------------| --- | --- | --- | --- |
-| Ashanti Hatchett | Random Recipe Generator | Generate a random recipe in a chosen category | For people who don't know what to cook | [Github](https://github.com/hatcheta1/random-recipe-generator) | [Link](https://random-recipe-generator-b0x4.onrender.com/)
+| Ashanti Hatchett | Random Recipe Generator | Generate a random recipe in a chosen category | For people who don't know what to cook | [Github](https://github.com/hatcheta1/random-recipe-generator) | [Link](https://random-recipe-generator-b0x4.onrender.com/) |
 | Brian Kim | The Museum of Metropolitan Art | Art Gallery for the metropolitan museum of art collection. In this project you will be able to browse through the different departments, and browse images. | For people who like art! | [Github](https://github.com/bibimbop123/themetropolitanmuseumofartcollection) | [Link](https://themetropolitanmuseumofartcollection.onrender.com) | 
+| Anna Villarreal | goVend | An app that helps businesses find events to vend. | For individuals and businesses who want to find events to vend. | [Github](https://github.com/AnnaVi11arrea1/goVend) | [Link](https://govend.onrender.com/) | 
