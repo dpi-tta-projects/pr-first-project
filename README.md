@@ -121,4 +121,4 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 ## 2024-9.1 
  Owner | App Name | Summary | Who is it for? | GitHub Repository Link | URL |
 | --- | --- | --- | --- | --- | --- |
-| Brian Kim | The Museum of Metropolitan Art | Art Gallery for the metropolitan museum of art collection. In this project you will be able to browse through the different departments, and browse images. | [Github](https://github.com/bibimbop123/themetropolitanmuseumofartcollection) | [Link](https://themetropolitanmuseumofartcollection.onrender.com) | 
+| Brian Kim | The Museum of Metropolitan Art | Art Gallery for the metropolitan museum of art collection. In this project you will be able to browse through the different departments, and browse images | For people who are interested in art | [Github](https://github.com/bibimbop123/themetropolitanmuseumofartcollection) | [Link](https://themetropolitanmuseumofartcollection.onrender.com) | 
