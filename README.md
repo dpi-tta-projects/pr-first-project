@@ -131,4 +131,6 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Merrill Huang | Cat Pics Rate | Browse random cat pics from the Cat API and rate them (they all deserve 10s!) | Cat enthusiasts | [Github](https://github.com/merrillhuang/cat-pics-rate) | [Link](https://cat-pics-rate.onrender.com/rate) |
 | Brian Luu | Movie Search Engine | You can register and login to create your own account. Once you login, you can add, update, display, and delete shows or movies over a public table. If you need help, use the search bar to find the name of your show or movie. | For everyone | [Github](https://github.com/tluu5/mini-project-v3) | [Link](https://mini-project-23a2.onrender.com) |
 | Tyler Estell | Music Like | Type in a musician that you like, you will recieve 10 reccomendations with a link to the artists wikipedia and youtube to listen if available. | For fans of music | [Github](https://github.com/Testell/musicLike) | [Link](https://musiclike.onrender.com/) |
+
+## 2024-10.1 
 | Teresa Pham | Animal Generator | Generate random images from a selection of animals and receive a randomized image with caption | Animal lovers | [Github](https://github.com/teresa-c-pham/dpi-sinatra-project) | [Link](https://dpi-sinatra-project.onrender.com/)
