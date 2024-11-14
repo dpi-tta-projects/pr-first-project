@@ -133,4 +133,6 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Tyler Estell | Music Like | Type in a musician that you like, you will recieve 10 reccomendations with a link to the artists wikipedia and youtube to listen if available. | For fans of music | [Github](https://github.com/Testell/musicLike) | [Link](https://musiclike.onrender.com/) |
 
 ## 2024-10.1 
-| Teresa Pham | Animal Generator | Generate random images from a selection of animals and receive a randomized image with caption | Animal lovers | [Github](https://github.com/teresa-c-pham/dpi-sinatra-project) | [Link](https://dpi-sinatra-project.onrender.com/)
+ Owner      | App Name                  | Summary | Who is it for? | GitHub Repository Link | URL |
+|------------|---------------------------| --- | --- | --- | --- |
+| Teresa Pham | Animal Generator | Generate random images from a selection of animals and receive a randomized image with caption | Animal lovers | [Github](https://github.com/teresa-c-pham/dpi-sinatra-project) | [Link](https://dpi-sinatra-project.onrender.com/) |
