@@ -132,3 +132,9 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Brian Luu | Movie Search Engine | You can register and login to create your own account. Once you login, you can add, update, display, and delete shows or movies over a public table. If you need help, use the search bar to find the name of your show or movie. | For everyone | [Github](https://github.com/tluu5/mini-project-v3) | [Link](https://mini-project-23a2.onrender.com) |
 | Tyler Estell | Music Like | Type in a musician that you like, you will recieve 10 reccomendations with a link to the artists wikipedia and youtube to listen if available. | For fans of music | [Github](https://github.com/Testell/musicLike) | [Link](https://musiclike.onrender.com/) |
 
+## 2024-10.1 Dazzling Ruby WRiters
+ Owner      | App Name                  | Summary | Who is it for? | GitHub Repository Link | URL |
+|------------|---------------------------| --- | --- | --- | --- |
+| Jim Vongsouvanh | Mystery Meal Maker | Why struggle with figuring out what to eat for dinner? Let Mystery Meal Generator pick the perfect meal for you! It's going to be delicous. | For Hungry People | [Github](https://github.com/zer0mancer/meal-app) | [Render](https://meal-app-acc6.onrender.com) | 
+
+
