@@ -136,3 +136,4 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
  Owner      | App Name                  | Summary | Who is it for? | GitHub Repository Link | URL |
 |------------|---------------------------| --- | --- | --- | --- |
 | Teresa Pham | Animal Generator | Generate random images from a selection of animals and receive a randomized image with caption | Animal lovers | [Github](https://github.com/teresa-c-pham/dpi-sinatra-project) | [Link](https://dpi-sinatra-project.onrender.com/) |
+| Brian Kim | Kanye Quote Generator | Generate quotes from Kanye | [Github](https://github.com/bibimbop123/kanye-quotes-shrine) | [Link](https://kanyemotivation.netlify.app/) |
