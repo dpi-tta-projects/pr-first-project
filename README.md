@@ -137,4 +137,4 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 |------------|---------------------------| --- | --- | --- | --- |
 | Teresa Pham | Animal Generator | Generate random images from a selection of animals and receive a randomized image with caption | Animal lovers | [Github](https://github.com/teresa-c-pham/dpi-sinatra-project) | [Link](https://dpi-sinatra-project.onrender.com/) |
 | Alonzo Rice | Nasa Pic Of The Day | View pictures of outterspace taken by NASA | For people who are interested in astronomy | [Github](https://github.com/ricealonzo/nasa_pic_of_day.git) | [Link](https://nasapicofday-nk8b.onrender.com) | 
-| Jim Vongsouvanh | Mystery Meal | Gives visitor a randomly selected meal recipe with ingredients, recipe, and picture | Hungry People | [GitHub](https://github.com/zer0mancer/meal-app) | [Render](https://meal-app-acc6.onrender.com) |
+| Jim Vongsouvanh | Mystery Meal | Gives visitor a randomly selected meal recipe with ingredients, recipe, and a picture | Hungry People | [GitHub](https://github.com/zer0mancer/meal-app) | [Render](https://meal-app-acc6.onrender.com) |
