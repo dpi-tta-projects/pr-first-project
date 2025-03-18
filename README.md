@@ -143,7 +143,7 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 
 
 
-## 2024-10.1 
+## 2025-03.1 
  Owner      | App Name                  | Summary | Who is it for? | GitHub Repository Link | URL |
 |------------|---------------------------| --- | --- | --- | --- |
 | Gladys Toledo-Rodriguez | Meowstery Trivia  | Solve random trivia questions accompanied by a random cat image | Trivia and Cat Lovers | [Github](https://github.com/gtoledorodriguez/Mewostery-Triviaesa-c-pham/dpi-sinatra-project) | [Link](https://meowstery-trivia.onrender.com/) |
