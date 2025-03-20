@@ -141,7 +141,8 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Max Montesino | Guess Age | Verifies the ages of living celebrities | Anyone curious/willing to bet money on how old celebrities are | [Github](https://github.com/m-nt-s-no/guess-age) | [Link](https://guess-age.onrender.com)
 | Grace Do | What's for dinner? | Search recipes based on an ingredient or pick a random recipe | Homecooks looking for creative recipes | [Github](https://github.com/grace1501/recipes-search-full) | [Link](https://recipes-search-full.onrender.com/)
 
-## 2025-3.1 
+## 2025-03.1 
  Owner      | App Name                  | Summary | Who is it for? | GitHub Repository Link | URL |
 |------------|---------------------------| --- | --- | --- | --- |
+| Gladys Toledo-Rodriguez | Meowstery Trivia  | Solve random trivia questions accompanied by a random cat image | Trivia and Cat Lovers | [Github](https://github.com/gtoledorodriguez/Mewostery-Triviaesa-c-pham/dpi-sinatra-project) | [Link](https://meowstery-trivia.onrender.com/) |
 | Federico Hernandez Nater | Quick PokéSearch | A helpful search companion for playing Pokémon games | Pokémon Players | [GitHub](https://github.com/fhernandeznater/quick-pokesearch) | [Render](https://quick-pokesearch.onrender.com) |
