@@ -145,3 +145,4 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
  Owner      | App Name                  | Summary | Who is it for? | GitHub Repository Link | URL |
 |------------|---------------------------| --- | --- | --- | --- |
 | Gladys Toledo-Rodriguez | Meowstery Trivia  | Solve random trivia questions accompanied by a random cat image | Trivia and Cat Lovers | [Github](https://github.com/gtoledorodriguez/Mewostery-Triviaesa-c-pham/dpi-sinatra-project) | [Link](https://meowstery-trivia.onrender.com/) |
+| Federico Hernandez Nater | Quick PokéSearch | A helpful search companion for playing Pokémon games | Pokémon Players | [GitHub](https://github.com/fhernandeznater/quick-pokesearch) | [Render](https://quick-pokesearch.onrender.com) |
