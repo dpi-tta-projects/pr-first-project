@@ -137,3 +137,15 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 |------------|---------------------------| --- | --- | --- | --- |
 | Teresa Pham | Animal Generator | Generate random images from a selection of animals and receive a randomized image with caption | Animal lovers | [Github](https://github.com/teresa-c-pham/dpi-sinatra-project) | [Link](https://dpi-sinatra-project.onrender.com/) |
 | Jalen Young | Cats v Dogs | A battle between cats and dogs | Rated E for Everyone | [GitHub](https://github.com/BlueUnderBoy/chiens-chats) | [Link](https://chiens-chats.onrender.com/) | 
+| Alonzo Rice | Nasa Pic Of The Day | View pictures of outterspace taken by NASA | For people who are interested in astronomy | [Github](https://github.com/ricealonzo/nasa_pic_of_day.git) | [Link](https://nasapicofday-nk8b.onrender.com) | 
+| Jim Vongsouvanh | Mystery Meal | Gives visitor a randomly selected meal recipe with ingredients, recipe, and a picture | Hungry People | [GitHub](https://github.com/zer0mancer/meal-app) | [Render](https://meal-app-acc6.onrender.com) |
+| Max Montesino | Guess Age | Verifies the ages of living celebrities | Anyone curious/willing to bet money on how old celebrities are | [Github](https://github.com/m-nt-s-no/guess-age) | [Link](https://guess-age.onrender.com)
+| Grace Do | What's for dinner? | Search recipes based on an ingredient or pick a random recipe | Homecooks looking for creative recipes | [Github](https://github.com/grace1501/recipes-search-full) | [Link](https://recipes-search-full.onrender.com/)
+
+## 2025-03.1 
+ Owner      | App Name                  | Summary | Who is it for? | GitHub Repository Link | URL |
+|------------|---------------------------| --- | --- | --- | --- |
+| Gladys Toledo-Rodriguez | Meowstery Trivia  | Solve random trivia questions accompanied by a random cat image | Trivia and Cat Lovers | [Github](https://github.com/gtoledorodriguez/Mewostery-Triviaesa-c-pham/dpi-sinatra-project) | [Link](https://meowstery-trivia.onrender.com/) |
+| Federico Hernandez Nater | Quick PokéSearch | A helpful search companion for playing Pokémon games | Pokémon Players | [GitHub](https://github.com/fhernandeznater/quick-pokesearch) | [Render](https://quick-pokesearch.onrender.com) |
+| Candide Mboungou-Kimpolo | SoccerStats |A simple web app for viewing real-time soccer match data | Soccer Players | [GitHub](https://github.com/Candide23/SoccerStats) | [Render](https://soccerstats-he32.onrender.com/) |
+| Melissa Martinez | Sunday Footy | Get stats for teams competing across five major American and European Football leagues. | Sports Fans | [Github](https://github.com/martinez415/sunday-footy-2.0) | [Render](https://sundayfooty.onrender.com/) |
