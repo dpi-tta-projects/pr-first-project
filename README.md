@@ -151,3 +151,5 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Melissa Martinez | Sunday Footy | Get stats for teams competing across five major American and European Football leagues. | Sports Fans | [Github](https://github.com/martinez415/sunday-footy-2.0) | [Render](https://sundayfooty.onrender.com/) |
 | Mohamed Elhelw | BookPedia | Allows user to search for thier favorite books and it allow them to read a preview. | Book readers | [Github](https://github.com/melhelow/BookSearchEngine) | [Render](https://bookpedia-y8ss.onrender.com/) |
 | Sabreena Salomon | Workout Generator | Allows user to get random workouts with instructions and tips. | Gym goers | [Github](https://github.com/Sabreenasal/workout_generator) | [Render](https://workout-generator-rbyj.onrender.com/) |
+| P. Devlin Harvey | Bigram Analysis | A simple tool for bigram frequency analysis | Cryptogprahy hobbyists | [GitHub](https://github.com/pdevlinharvey/Bigram-Freq-Analysis) | [Render](https://bigram-analysis.onrender.com/) |
+
