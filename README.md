@@ -158,4 +158,5 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 ## 2025-07.1 
  Owner      | App Name                  | Summary | Who is it for? | GitHub Repository Link | URL |
 |------------|---------------------------| --- | --- | --- | --- |
+| Karen Barbé | Color Contrast Checker | Checks compliance with WCAG color contrast | Contrast Checker | [Github](https://github.com/karenbarbe/contrast_checker) | [Link](https://simple-contrast-checker-app.onrender.com/) |
 | Muhammed Ahmad | Javascript TV App | A web app for calculating the amount of time you've spent watching TV today | TV enthusiasts | [Github](https://github.com/Muhammed-L-Ahmad/tv_tracker) | [Render](https://muhammed-l-ahmad.github.io/tv_tracker/)
