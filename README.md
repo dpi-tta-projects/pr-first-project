@@ -159,3 +159,4 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
  Owner      | App Name                  | Summary | Who is it for? | GitHub Repository Link | URL |
 |------------|---------------------------| --- | --- | --- | --- |
 | Karen Barbé | Color Contrast Checker | Checks compliance with WCAG color contrast | Contrast Checker | [Github](https://github.com/karenbarbe/contrast_checker) | [Link](https://simple-contrast-checker-app.onrender.com/) |
+| Darius Woods | Angry Encouragement App | An angry AI that empowers you with inspirational quotes and phrases | Those in need of motivation | [Github](https://github.com/dariusw1234/angry-encouragement-app) | [Render](https://angry-encouragement-app.onrender.com) |
