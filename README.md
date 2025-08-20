@@ -159,3 +159,4 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
  Owner      | App Name                  | Summary | Who is it for? | GitHub Repository Link | URL |
 |------------|---------------------------| --- | --- | --- | --- |
 | Karen Barbé | Color Contrast Checker | Checks compliance with WCAG color contrast | Contrast Checker | [Github](https://github.com/karenbarbe/contrast_checker) | [Link](https://simple-contrast-checker-app.onrender.com/) |
+| Kseniia Kormalova | Tarotly | Provides users with a tarot card for the day, along with a short interpretation and an inspirational quote | Tarot lovers | [Github](https://github.com/kkseniad/mini-project) | [Link](https://tarotly.onrender.com/) |
