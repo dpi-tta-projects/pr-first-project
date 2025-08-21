@@ -160,3 +160,5 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 |------------|---------------------------| --- | --- | --- | --- |
 | Karen Barbé | Color Contrast Checker | Checks compliance with WCAG color contrast | Contrast Checker | [Github](https://github.com/karenbarbe/contrast_checker) | [Link](https://simple-contrast-checker-app.onrender.com/) |
 | Darius Woods | Angry Encouragement App | An angry AI that empowers you with inspirational quotes and phrases | Those in need of motivation | [Github](https://github.com/dariusw1234/angry-encouragement-app) | [Render](https://angry-encouragement-app.onrender.com) |
+| Bella Rose Wilson | Password Generator | A fun tool to help remind and create passwords that make browsing online safe and secure | Online Users | [Github](https://github.com/bellarosewilson/password-generator/) | [Render](https://password-generator-2oka.onrender.com) |
+
