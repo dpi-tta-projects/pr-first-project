@@ -154,4 +154,11 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | P. Devlin Harvey | Bigram Analysis | A simple tool for bigram frequency analysis | Cryptogprahy hobbyists | [GitHub](https://github.com/pdevlinharvey/Bigram-Freq-Analysis) | [Render](https://bigram-analysis.onrender.com/) |
 | Miguel Ramos | Helpful Advice | A place to find helpful advice | Advice seekers | [Github](https://github.com/Mrammoss/helpful-advice) | [Render](https://web-app-project-5455.onrender.com/) |
 | Torell Pernell | Sinatra Banking App | A web app for performing basic bank account transactions | Banking customers | [Github](https://github.com/torellpernell/sinatra-banking-app) | [Render](https://sinatra-banking-app.onrender.com/) |
+
+## 2025-07.1 
+ Owner      | App Name                  | Summary | Who is it for? | GitHub Repository Link | URL |
+|------------|---------------------------| --- | --- | --- | --- |
+| Karen Barbé | Color Contrast Checker | Checks compliance with WCAG color contrast | Contrast Checker | [Github](https://github.com/karenbarbe/contrast_checker) | [Link](https://simple-contrast-checker-app.onrender.com/) |
+| Darius Woods | Angry Encouragement App | An angry AI that empowers you with inspirational quotes and phrases | Those in need of motivation | [Github](https://github.com/dariusw1234/angry-encouragement-app) | [Render](https://angry-encouragement-app.onrender.com) |
 | Bella Rose Wilson | Password Generator | A fun tool to help remind and create passwords that make browsing online safe and secure | Online Users | [Github](https://github.com/bellarosewilson/password-generator/) | [Render](https://password-generator-2oka.onrender.com) |
+
