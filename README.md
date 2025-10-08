@@ -170,3 +170,4 @@ Create an issue (eg "Add Ian's project") and assign it to yourself. Clone this r
 | Heather Forester | Madlibs App | A word game, where you can put in parts of speech and create a wacky story |  People who love stories and laughing | [Github](https://github.com/hforeste07/Madlips) | [Link](https://madlips.onrender.com) |
 | Alex Slawniak | Random Dog Image | Gets random images of dogs as requested | Dog Lovers/Dogs | [Github](https://github.com/BLOODAXED/random-dog-image) | [Render](https://random-dog-image-nikw.onrender.com) |
 | Monique Theogene | Password Generator| Random 10char password | Busy People | [Github](https://github.com/MoniqueTheogene123/sinatra-template) | [Render](https://password-generator-ktlw.onrender.com) |
+| Maia Rowe | My Fave Artist | Gets spotify stats for any artist searched | Music lovers| [Github](https://github.com/Mrowe178566/myFavArtist) | [Render](https://myfavartist.onrender.com) |
